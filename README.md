@@ -7,13 +7,13 @@ Include GoogleAuthenticator in your project:
 
 ```xml
   <repository>
-  	<id>jitpack.io</id>
-	<url>https://jitpack.io</url>
+      <id>jitpack.io</id>
+      <url>https://jitpack.io</url>
   </repository>
   
   <dependency>
-	    <groupId>com.github.Kyumar</groupId>
-	    <artifactId>Two-Factor-Authentication-Lib</artifactId>
-	    <version>8736e78db4</version>
-	</dependency>
+      <groupId>com.github.Kyumar</groupId>
+      <artifactId>Two-Factor-Authentication-Lib</artifactId>
+      <version>8736e78db4</version>
+  </dependency>
 ```
