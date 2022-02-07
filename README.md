@@ -1,7 +1,7 @@
 # Two-Factor-Authentication-Lib
 Simple lib to create secretkey and get the code with TOTP Algorithm
 
-Include GoogleAuthenticator in your project:
+Include Two-Factor-Authentication-Lib in your project:
 
 ## Maven
 
